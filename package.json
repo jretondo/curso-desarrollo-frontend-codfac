@@ -1,0 +1,14 @@
+{
+  "name": "curso-front-avanzado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Retondo Javier",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.70.0"
+  }
+}
